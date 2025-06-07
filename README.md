@@ -19,11 +19,3 @@ An [MCP](https://github.com/modelcontext/protocol)-compatible server to control 
 - 🧠 MCP-compatible tool for LLM agents
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone this repository
-
-```bash
-git clone https://github.com/your-username/smart-bulb-mcp-server.git
-cd smart-bulb-mcp-server
