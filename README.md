@@ -15,7 +15,7 @@ An [MCP](https://github.com/modelcontext/protocol)-compatible server to control 
 - 🔌 Turn smart bulb **on** or **off**
 - 💡 Adjust **brightness**
 - 🎨 Change **color** (hex or RGB)
-- 📊 Get current **status**
+- 📊 Get current **status** of Bulb
 - 🧠 MCP-compatible tool for LLM agents
 
 ---
